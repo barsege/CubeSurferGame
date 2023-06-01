@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/CubeSurfer/Scenes/OpeningScene.unity
+    guid: 69fb2581606e2e049a8a329b8f5cf078
+  - enabled: 1
+    path: Assets/CubeSurfer/Scenes/MainScene.unity
+    guid: 779b264a7a4da6c43a9f2c27accd6aaa
+  - enabled: 0
+    path: Assets/Huawei/Demos/Account/AccountDemo.unity
+    guid: 1dbccd04ace8d724fb56d687a0118ac0
+  m_configObjects: {}
